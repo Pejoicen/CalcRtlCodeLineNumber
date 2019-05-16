@@ -1,0 +1,2 @@
+# CalcRtlCodeLineNumber
+检测verilog或VHDL代码行数
